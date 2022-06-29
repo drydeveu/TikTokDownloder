@@ -2,6 +2,7 @@ Requriements:
 ```
 - Python3 with pip
 ```
+Download here: https://www.python.org/downloads/
 
 1.Download this Repo.
 
