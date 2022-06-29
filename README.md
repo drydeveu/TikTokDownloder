@@ -1,3 +1,8 @@
+Requriements:
+```
+- Python3 with pip
+```
+
 1.Download this Repo.
 
 2.Double click "start.bat"
